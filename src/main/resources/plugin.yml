@@ -1,0 +1,11 @@
+name: Punishgui_wintox
+version: '${project.version}'
+main: me.louisdev.punishgui_wintox.Main
+api-version: 1.19
+commands:
+  pu:
+    description: Punish
+    usage: /<command> <player>
+    aliases:
+      - p
+      - punish
